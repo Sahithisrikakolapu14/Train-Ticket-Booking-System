@@ -47,4 +47,3 @@
 #Import database railres.sql from downloaded folder(inside database)
 #4. Open Your browser put inside "http://localhost/railway reservation system in php/"
 
-#Download project  https://www.projectworlds.in/php-projects/railway-reservation-system-in-php/
